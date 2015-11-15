@@ -1,1 +1,3 @@
-# FirstEncryptionPractice
+# Encryption program on MATLAB
+
+Made a long time ago, in a galaxy far far away...........
